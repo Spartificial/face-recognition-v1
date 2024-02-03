@@ -57,7 +57,7 @@
    - I'll review the changes made by you.
    - Based on this I'll provide feedback and discuss any necessary modifications.
 
-**🤝 Merge Pull Request:**
+**✅ Merge Pull Request:**
    - Once the changes are approved and ready to be merged, I'll confirm the merge.
 
 **🔄 Update Local Repository:**
