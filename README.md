@@ -53,7 +53,7 @@
    - Click "Create Pull Request."
 
 **🕵️ Code Review and Discussion:**
-   - As the mentor, I will receive a notification for the pull request.
+   - As the maintainer, I will receive a notification for the pull request.
    - I'll review the changes made by you.
    - Based on this I'll provide feedback and discuss any necessary modifications.
 
